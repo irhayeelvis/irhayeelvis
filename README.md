@@ -69,7 +69,7 @@ const elvis = {
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3B82F6&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=irhayeelvis&color=3B82F6&style=for-the-badge)
   
   **💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
   
