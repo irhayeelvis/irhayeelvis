@@ -36,17 +36,6 @@ I'm a passionate developer focused on building robust backend systems, exploring
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irhayeelvis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irhayeelvis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irhayeelvis&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
-
-</div>
 
 ## 🎯 Focus Areas
 
